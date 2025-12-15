@@ -4,7 +4,7 @@
   </h1>
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF0000,FFFF00,00FF00,0000FF,4B0082,EE82EE&background=000000&center=true&vCenter=true&width=600&height=70&lines=HELLO+FRIENDS!+SARDAR+RDX+HERE+👨‍💻+🫰;RDX+BOT+PROJECT;RDX+FCA+BOT;THANKYOU+FOR+USING+RDX+PROJECT&border=10px+solid+000000&borderRadius=15px" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF0000,FFFF00,FF0000&background=000000&center=true&vCenter=true&width=600&height=70&lines=HELLO+FRIENDS!+SARDAR+RDX+HERE+👨‍💻+🫰;RDX+BOT+PROJECT;RDX+FCA+BOT;THANKYOU+FOR+USING+RDX+PROJECT&border=10px+solid=000000&borderRadius=15px" alt="Typing Animation">
   </p>
   
   <img src="https://i.imgur.com/yr1YUuj.jpeg" alt="SARDAR RDX BOT" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
