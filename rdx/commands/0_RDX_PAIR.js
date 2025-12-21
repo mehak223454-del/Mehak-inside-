@@ -178,7 +178,7 @@ module.exports.run = async function({ api, event, Users }) {
     var msg = {
       body: `┏━•❃°•°❀°•°❃•━┓
 
-𝐎𝐰𝐧𝐞𝐫 ·˚ ༘₊·꒰➳: ̗̀➛ 🍓 𝐒𝐀𝐑𝐃𝐀𝐑 𝐑𝐃𝐗
+𝐎𝐰𝐧𝐞𝐫 ·˚ ༘₊·꒰➳: ̗̀➛ 🍓 ⎯꯭̽  𝐌𝐄𝐇𝐀𝐊 ⎯꯭̽³>
 
 ┗━•❃°•°❀°•°❃•━┛ 
 
