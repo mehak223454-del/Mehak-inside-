@@ -18,9 +18,9 @@ module.exports = {
 
     const ownerPics = [
       'https://i.ibb.co/672Zf20L/99ea4edb30db.jpg',
-      'https://i.ibb.co/bRBZxk9v/20df2c060ec2.jpg',
-      'https://i.ibb.co/gMkf5Dmk/252782e1baf1.jpg',
-      'https://i.ibb.co/PspxZNzh/b247dec7d443.jpg'
+      'https://i.ibb.co/Kc0vPR0K/532bbc2c873c.jpg',
+      'https://i.ibb.co/FqKwsKHz/c44acc0d60bd.jpg',
+      'https://i.ibb.co/yB57D98r/50d95cb841e5.jpg'
     ];
 
     const randomPic = ownerPics[Math.floor(Math.random() * ownerPics.length)];
@@ -44,7 +44,7 @@ module.exports = {
 ╠═══════════════════════════╣
 ║  🤖 𝐁𝐨𝐭 𝐃𝐞𝐭𝐚𝐢𝐥𝐬:           ║
 ║                           ║
-║  📛 Name: ${config.BOTNAME || 'SARDAR RDX'}
+║  📛 Name: ${config.BOTNAME || '⎯꯭̽ 𝐌𝐄𝐇𝐀𝐊•𝐁𝐎𝐓 ⎯꯭̽³>'}
 ║  ⚡ Prefix: ${config.PREFIX || '.'}
 ║  💻 Version: 2.0.0        ║
 ║  🛠️ Framework: WS3-FCA    ║
