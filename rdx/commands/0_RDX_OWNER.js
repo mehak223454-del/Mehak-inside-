@@ -7,7 +7,7 @@ module.exports = {
     name: 'owner',
     aliases: ['dev', 'creator', 'developer'],
     description: 'Show bot owner information',
-    credits: 'SARDAR RDX',
+    credits: 'MEHAK JUTTI',
     usage: 'owner',
     category: 'Info',
     prefix: false
@@ -30,7 +30,7 @@ module.exports = {
 ║   ✨ 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎 ✨   ║
 ╠═══════════════════════════╣
 ║                           ║
-║  👤 𝐍𝐚𝐦𝐞: MEHAK JUTTI     ║
+║  👤 𝐍𝐚𝐦𝐞: ⎯꯭̽  𝐌𝐄𝐇𝐀𝐊 ⎯꯭̽³>     ║
 ║                           ║
 ╠═══════════════════════════╣
 ║  📱 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐈𝐧𝐟𝐨:          ║
