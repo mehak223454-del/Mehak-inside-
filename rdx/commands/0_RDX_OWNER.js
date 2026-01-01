@@ -17,7 +17,7 @@ module.exports = {
     const { threadID, messageID } = event;
 
     const ownerPics = [
-      'https://i.ibb.co/672Zf20L/99ea4edb30db.jpg',
+      'https://i.ibb.co/JjhXjW80/306410d4052c.jpg',
       'https://i.ibb.co/Kc0vPR0K/532bbc2c873c.jpg',
       'https://i.ibb.co/FqKwsKHz/c44acc0d60bd.jpg',
       'https://i.ibb.co/yB57D98r/50d95cb841e5.jpg'
