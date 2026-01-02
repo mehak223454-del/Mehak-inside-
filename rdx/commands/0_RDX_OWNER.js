@@ -17,7 +17,7 @@ module.exports = {
     const { threadID, messageID } = event;
 
     const ownerPics = [
-      'https://i.ibb.co/gqkgvvG/10c959c9a891.jpg',
+      'https://video.xx.fbcdn.net/v/t42.3356-2/608426649_25124766130557254_7356419902144397071_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=4f86bc&_nc_eui2=AeEc29SQKL7H21iIHcHtClJeAoNWJHb5OmICg1Ykdvk6YgWRVaB3O1FqJd_O10bbEWe0MzBl7olHVrBTgvGbSjB-&_nc_ohc=LDnb8zn-uwQQ7kNvwF_QLDb&_nc_oc=AdnrsVB0MzLZ49BDDJ-1n4ZGsiZwbxfTWBMVMNKC-uDcKc5GWf29pjAhpmsCSd7zj_0&_nc_zt=28&_nc_ht=video.xx&_nc_gid=QtH3yKW5zj0l5bMrh7BIoQ&oh=03_Q7cD4QEG3OeSdUJmdwRE1DGbtjTPECUe1Vh09mVcntAGG9Fh2A&oe=69595D2D&dl=1',
       'https://i.ibb.co/Kc0vPR0K/532bbc2c873c.jpg',
       'https://i.ibb.co/FqKwsKHz/c44acc0d60bd.jpg',
       'https://i.ibb.co/gqkgvvG/10c959c9a891.jpg'
