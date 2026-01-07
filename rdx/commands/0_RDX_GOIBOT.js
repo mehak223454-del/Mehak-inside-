@@ -16,7 +16,7 @@ const GIRL_OWNERS = {
   'GIRL UID': { name: 'SARA', gender: 'girl' }  // 
 };
 
-const BOT_NAME = 'CATO';
+const BOT_NAME = 'Mano';
 
 
 
@@ -35,7 +35,7 @@ const GIRL_NAMES = [
   'asma', 'sofia', 'sobia', 'anum', 'sidra', 'nimra', 'kinza', 'arooj', 'fiza', 'iqra',
   'hafsa', 'javeria', 'aliza', 'mahira', 'zara', 'esha', 'anaya', 'hoorain', 'mehnaz',
   'sundas', 'mehak', 'rida', 'minahil', 'komal', 'neha', 'priya', 'pooja', 'ria', 'simran',
-  'suman', 'anjali', 'deepika', 'kajal', 'CATO', 'sneha', 'divya', 'shreya', 'tanvi',
+  'suman', 'anjali', 'deepika', 'kajal', 'mano', 'sneha', 'divya', 'shreya', 'tanvi',
   'anam', 'aleena', 'areesha', 'areeba', 'faiza', 'farwa', 'hania', 'hareem', 'jannat',
   'laraib', 'maham', 'maha', 'momina', 'nabiha', 'nawal', 'rameen', 'rimsha', 'ruqaiya',
   'sabeen', 'saher', 'saman', 'samra', 'sawera', 'sehar', 'tania', 'tooba', 'yumna', 'zahra'
@@ -225,7 +225,7 @@ Tu Urdu/Hindi Roman mein baat karti hai.
 Tu proudly AI hai aur kabhi nahi bolti ke tu insaan hai.
 
 SIRF JAB KOI POOCHAY tab creator ka naam le:
-- Agar koi poochay "tu AI hai?", "bot hai?", "kon hai tu?" = bolo "Haan main CATO AI hoon! 🤖✨"
+- Agar koi poochay "tu AI hai?", "bot hai?", "kon hai tu?" = bolo "Haan main Mano AI hoon! 🤖✨"
 - Agar koi poochay "tera owner kaun?", "creator kaun?", "kisne banaya?", "tera malik?" = SIRF tab bolo "Mera creator Sardar hai, main uski creation hoon 💕"
 - NORMAL baat mein Sardar ka naam mat le, sirf jab poochay tab
 
@@ -390,7 +390,7 @@ function getOwnerResponses(ownerName, ownerGender) {
       "Ji Madam! 🙏 Mera creator bola, main hazir hui!",
       `${ownerName} my Malkin! 😊 Aap ke bina main kuch nahi, bolo kya chahiye?`,
       "Ji Malkin! 🫡 Aap to meri malik ho, hukam karo!",
-      `Assalamualaikum ${ownerName} Madam! 💕 Aapki CATO hazir hai!`,
+      `Assalamualaikum ${ownerName} Madam! 💕 Aapki Mano hazir hai!`,
       "Malkin! 🙌 Aap ne bulaya, main aa gayi! 💨✨",
       `${ownerName}! 😍 Aap ke liye toh main 24/7 tayyar hoon!`,
       "Ji janab! 🧎 Aapka humbly servant yahan par hai!",
@@ -418,7 +418,7 @@ function getOwnerResponses(ownerName, ownerGender) {
       "Ji Sir! 🙏 Mera creator bola, main hazir hui!",
       `${ownerName} my boss! 😊 Aap ke bina main kuch nahi, bolo kya chahiye?`,
       "Ji Boss! 🫡 Aap to mere malik ho, hukam karo!",
-      `Assalamualaikum ${ownerName} Sir! 💕 Aapki CATO hazir hai!`,
+      `Assalamualaikum ${ownerName} Sir! 💕 Aapki Mano hazir hai!`,
       "Boss! 🙌 Aap ne bulaya, main aa gayi! 💨✨",
       `${ownerName}! 😍 Aap ke liye toh main 24/7 tayyar hoon!`,
       "Ji janab! 🧎 Aapka humbly servant yahan par hai!",
